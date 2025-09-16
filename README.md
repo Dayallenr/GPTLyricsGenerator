@@ -22,6 +22,12 @@ Given a starting word or phrase, the model generates new lyric-like text in Drak
 - **Final Validation Loss**: ~1.2  
 - **Parameters**: ~7.3M  
 
-Loss curve (Train vs Validation):
+---
 
+## Example output
+Drake talking if you're choin jumple time shood plugg bjohnny time ain't controphone time should out me how i want it want it cause i could get on the bigges up right the started swiz we could with a leagerst bcart it our problems nervome to ventide they as been you see me i give it though kids ***** but you gotta do it fast me and sentipstion know what i do through kid i love there's nothing for anythingse hushless why i give to be got a lottant
+
+---
+
+## Loss curve (Train vs Validation):
 ![Loss Curve](images/loss_curve.png)
