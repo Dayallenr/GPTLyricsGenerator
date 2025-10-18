@@ -25,7 +25,8 @@ Given a starting word or phrase, the model generates new lyric-like text in Drak
 ---
 
 ## Example output
-Drake talking if you're choin jumple time shood plugg bjohnny time ain't controphone time should out me how i want it want it cause i could get on the bigges up right the started swiz we could with a leagerst bcart it our problems nervome to ventide they as been you see me i give it though kids ***** but you gotta do it fast me and sentipstion know what i do through kid i love there's nothing for anythingse hushless why i give to be got a lottant
+Input: "The moonlight shines"
+{"The moonlight shines rolling what shittle tin' makes but and you should let you to me i'm clippon your tell gets a mark and enough you wanna be no hook as you live called it all up op my team give thought scare y'all of past niggas it's not playin' yeah of tire shit it sounds you a couple home i better now the conder what i know im to get one someback my spoician culanin'   drake im some i kid i know uh uh like a missan wihall tryna la tate the why mutic's for you wanna atta question me too huw hard a right diesign"}
 
 ---
 
