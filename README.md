@@ -26,7 +26,7 @@ Given a starting word or phrase, the model generates new lyric-like text in Drak
 
 ## Example output
 Input: "The moonlight shines"
-{"The moonlight shines rolling what shittle tin' makes but and you should let you to me i'm clippon your tell gets a mark and enough you wanna be no hook as you live called it all up op my team give thought scare y'all of past niggas it's not playin' yeah of tire shit it sounds you a couple home i better now the conder what i know im to get one someback my spoician culanin'   drake im some i kid i know uh uh like a missan wihall tryna la tate the why mutic's for you wanna atta question me too huw hard a right diesign"}
+Output: {"The moonlight shines rolling what shittle tin' makes but and you should let you to me i'm clippon your tell gets a mark and enough you wanna be no hook as you live called it all up op my team give thought scare y'all of past ****** it's not playin' yeah of tire shit it sounds you a couple home i better now the conder what i know im to get one someback my spoician culanin'   drake im some i kid i know uh uh like a missan wihall tryna la tate the why mutic's for you wanna atta question me too huw hard a right diesign"}
 
 ---
 
